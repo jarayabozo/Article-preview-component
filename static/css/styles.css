@@ -51,7 +51,7 @@ body {
   position: relative;
   overflow: hidden;
 }
-.article .article-container h1 {
+.article .article-container h2 {
   color: var(--very-dark-grayish-blue);
   font-family: var(--manrope);
   font-size: 1.3em;
@@ -166,7 +166,7 @@ body {
     overflow: initial;
     padding: 40px 40px 32px 40px;
   }
-  .article .article-container h1 {
+  .article .article-container h2 {
     margin: 0 0 18px 0;
     font-size: 1.45em;
     letter-spacing: .5px;
