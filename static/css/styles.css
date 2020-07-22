@@ -209,5 +209,14 @@ body {
   .article .article-container .share .icons button {
     padding: 4px;
   }
+  .attribution {
+    text-align: center;
+    padding: 10px;
+    font-size: 1em;
+    font-family: var(--manrope);
+  }
+  .attribution a {
+    color: var(--very-dark-grayish-blue);
+  }
   
 }
