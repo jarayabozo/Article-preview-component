@@ -164,7 +164,7 @@ body {
   }
   .article .article-container {
     overflow: initial;
-    padding: 40px 40px 32px 40px;
+    padding: 32px 40px 32px 40px;
   }
   .article .article-container h2 {
     margin: 0 0 18px 0;
